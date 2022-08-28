@@ -3,7 +3,8 @@
 **Realizado por:** _Carlos A. Imenzon_,
 **Email:** _imenzoncarlos97@gmail.com_.
 
-Realizado 100% con el lenguaje **_Python_**, la creacion de la interfaz grafica fue con **_Tkinter_**.
+Realizado 100% con el lenguaje **_Python_**, la creacion de la interfaz grafica fue con **_Tkinter_**.  
+Programa para descargar audio desde Youtube en formato '.mp4'.
 
 **Link de descarga del ejecutable:** 
 https://mega.nz/file/iAFVnbCY#2UmRjTuqv_OcsxwOvwYRzugTabidAGWEhfZ34abL4d4
